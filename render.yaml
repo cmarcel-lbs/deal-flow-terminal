@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: deal-flow-terminal
+    runtime: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist/public
+    pullRequestPreviewsEnabled: true
+    headers:
+      - path: /*
+        name: X-Frame-Options
+        value: SAMEORIGIN
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
