@@ -1,0 +1,230 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* TERMINAL DEAL FLOW — Bloomberg-inspired dark canvas with amber + cyan accents.
+   Dark is default; light mode kept clean and minimal. */
+
+:root {
+  /* Default to terminal (dark) tokens — Bloomberg-inspired */
+  --button-outline: rgba(255, 255, 255, 0.08);
+  --badge-outline: rgba(255, 255, 255, 0.05);
+  --opaque-button-border-intensity: 9;
+  --elevate-1: rgba(255, 200, 80, 0.04);
+  --elevate-2: rgba(255, 200, 80, 0.08);
+
+  /* Canvas */
+  --background: 30 8% 5%;            /* near-black, warm */
+  --foreground: 40 18% 90%;          /* warm bone */
+  --border: 30 6% 14%;
+  --card: 30 8% 7%;
+  --card-foreground: 40 18% 90%;
+  --card-border: 30 6% 12%;
+  --sidebar: 30 9% 4%;
+  --sidebar-foreground: 40 12% 80%;
+  --sidebar-border: 30 6% 12%;
+  --sidebar-primary: 38 95% 55%;     /* amber */
+  --sidebar-primary-foreground: 30 30% 8%;
+  --sidebar-accent: 30 6% 12%;
+  --sidebar-accent-foreground: 40 18% 90%;
+  --sidebar-ring: 38 95% 55%;
+  --popover: 30 8% 8%;
+  --popover-foreground: 40 18% 90%;
+  --popover-border: 30 6% 14%;
+
+  /* Brand accents */
+  --primary: 38 95% 55%;             /* terminal amber */
+  --primary-foreground: 30 30% 8%;
+  --secondary: 30 6% 14%;
+  --secondary-foreground: 40 18% 90%;
+  --muted: 30 6% 12%;
+  --muted-foreground: 40 5% 58%;
+  --accent: 178 60% 45%;             /* terminal cyan */
+  --accent-foreground: 30 30% 8%;
+  --destructive: 0 70% 55%;
+  --destructive-foreground: 0 0% 98%;
+  --input: 30 6% 18%;
+  --ring: 38 95% 55%;
+
+  /* Semantic dataviz */
+  --chart-1: 38 95% 55%;   /* amber */
+  --chart-2: 178 60% 45%;  /* cyan */
+  --chart-3: 130 50% 50%;  /* signal green */
+  --chart-4: 320 55% 60%;  /* magenta */
+  --chart-5: 220 70% 60%;  /* signal blue */
+  --signal-up: 130 60% 50%;
+  --signal-down: 0 70% 60%;
+  --signal-flat: 40 5% 55%;
+
+  /* Category hues — used to color-code the three verticals */
+  --cat-pro: 178 60% 45%;       /* cyan — Business / Professional Services */
+  --cat-ai: 38 95% 55%;         /* amber — AI & Biotech */
+  --cat-deep: 280 60% 65%;      /* violet — Deep Tech Platforms */
+
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Menlo', monospace;
+  --radius: 0.375rem;
+
+  --sidebar-primary-border: hsl(var(--sidebar-primary));
+  --sidebar-accent-border: hsl(var(--sidebar-accent));
+  --primary-border: hsl(var(--primary));
+  --secondary-border: hsl(var(--secondary));
+  --muted-border: hsl(var(--muted));
+  --accent-border: hsl(var(--accent));
+  --destructive-border: hsl(var(--destructive));
+}
+
+/* Optional light mode — clean editorial counterpart */
+.light {
+  --button-outline: rgba(0, 0, 0, 0.1);
+  --badge-outline: rgba(0, 0, 0, 0.05);
+  --opaque-button-border-intensity: -8;
+  --elevate-1: rgba(0, 0, 0, 0.03);
+  --elevate-2: rgba(0, 0, 0, 0.08);
+  --background: 40 25% 97%;
+  --foreground: 30 15% 10%;
+  --border: 30 8% 86%;
+  --card: 0 0% 100%;
+  --card-foreground: 30 15% 10%;
+  --card-border: 30 8% 90%;
+  --sidebar: 40 22% 95%;
+  --sidebar-foreground: 30 15% 10%;
+  --sidebar-border: 30 8% 88%;
+  --sidebar-primary: 22 90% 45%;
+  --sidebar-primary-foreground: 0 0% 100%;
+  --sidebar-accent: 40 18% 90%;
+  --sidebar-accent-foreground: 30 15% 10%;
+  --sidebar-ring: 22 90% 45%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 30 15% 10%;
+  --popover-border: 30 8% 86%;
+  --primary: 22 90% 45%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 40 15% 92%;
+  --secondary-foreground: 30 15% 10%;
+  --muted: 40 15% 92%;
+  --muted-foreground: 30 5% 40%;
+  --accent: 188 70% 35%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 75% 45%;
+  --destructive-foreground: 0 0% 100%;
+  --input: 30 10% 80%;
+  --ring: 22 90% 45%;
+  --cat-pro: 188 70% 35%;
+  --cat-ai: 22 90% 45%;
+  --cat-deep: 280 50% 50%;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html, body, #root {
+    height: 100%;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+    font-feature-settings: "ss01", "cv11";
+  }
+
+  /* Tabular numerics on every numeric span */
+  .num, .mono, code, kbd {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums lining-nums;
+    letter-spacing: -0.01em;
+  }
+}
+
+@layer utilities {
+  .terminal-grid {
+    background-image:
+      linear-gradient(to right, hsl(var(--border) / 0.4) 1px, transparent 1px),
+      linear-gradient(to bottom, hsl(var(--border) / 0.4) 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+
+  .scanline {
+    position: relative;
+  }
+  .scanline::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: repeating-linear-gradient(
+      to bottom,
+      transparent 0px,
+      transparent 3px,
+      hsl(var(--foreground) / 0.015) 3px,
+      hsl(var(--foreground) / 0.015) 4px
+    );
+    mix-blend-mode: overlay;
+  }
+
+  .signal-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    box-shadow: 0 0 8px currentColor;
+  }
+
+  .pulse-amber {
+    animation: pulse-amber 2.4s ease-in-out infinite;
+  }
+
+  @keyframes pulse-amber {
+    0%, 100% { opacity: 0.4; }
+    50% { opacity: 1; }
+  }
+
+  .hairline { border-color: hsl(var(--border) / 0.6); }
+
+  .ticker-marquee {
+    animation: ticker 80s linear infinite;
+  }
+  @keyframes ticker {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* Bloomberg-style cell text */
+  .cell {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums lining-nums;
+    font-size: 11px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+  }
+
+  /* Elevate copied from template */
+  .hover-elevate, .active-elevate, .hover-elevate-2, .active-elevate-2 {
+    position: relative;
+    z-index: 0;
+  }
+  .hover-elevate::after, .active-elevate::after, .hover-elevate-2::after, .active-elevate-2::after {
+    content: '';
+    pointer-events: none;
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    z-index: 999;
+  }
+  .hover-elevate:hover::after, .active-elevate:active::after { background-color: var(--elevate-1); }
+  .hover-elevate-2:hover::after, .active-elevate-2:active::after { background-color: var(--elevate-2); }
+  .border.hover-elevate::after,
+  .border.active-elevate::after,
+  .border.hover-elevate-2::after,
+  .border.active-elevate-2::after { inset: -1px; }
+
+  /* Custom scrollbar — terminal feel */
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-track { background: hsl(var(--background)); }
+  ::-webkit-scrollbar-thumb {
+    background: hsl(var(--border));
+    border-radius: 2px;
+  }
+  ::-webkit-scrollbar-thumb:hover { background: hsl(var(--muted-foreground) / 0.5); }
+}
