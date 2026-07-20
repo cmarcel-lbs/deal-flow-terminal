@@ -8,7 +8,7 @@ export function EventsModule() {
     a.date < b.date ? -1 : 1
   );
   // Bucket by week
-  const today = new Date("2026-05-20");
+  const today = new Date("2026-07-20");
   function weekBucket(d: string) {
     const dt = new Date(d);
     if (isNaN(dt.getTime())) return "Later";
