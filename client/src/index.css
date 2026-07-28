@@ -59,7 +59,7 @@
   /* Category hues — used to color-code the three verticals */
   --cat-pro: 178 60% 45%;       /* cyan — Business / Professional Services */
   --cat-ai: 38 95% 55%;         /* amber — AI & Biotech */
-  --cat-deep: 280 60% 65%;      /* violet — Deep Tech Platforms */
+  --cat-consumer: 280 60% 65%;      /* violet — Consumer */
 
   --font-sans: 'Inter', system-ui, sans-serif;
   --font-mono: 'JetBrains Mono', 'Menlo', monospace;
@@ -112,7 +112,7 @@
   --ring: 22 90% 45%;
   --cat-pro: 188 70% 35%;
   --cat-ai: 22 90% 45%;
-  --cat-deep: 280 50% 50%;
+  --cat-consumer: 280 50% 50%;
 }
 
 @layer base {

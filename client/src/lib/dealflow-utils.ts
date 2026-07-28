@@ -3,30 +3,30 @@
 export type Category =
   | "Business/Professional Services"
   | "AI and Biotech"
-  | "Deep Tech Platforms";
+  | "Consumer";
 
 export const CATEGORY_LABEL: Record<string, string> = {
   "Business/Professional Services": "Pro Services",
   "AI and Biotech": "AI & Bio",
-  "Deep Tech Platforms": "Deep Tech",
+  "Consumer": "Consumer",
 };
 
 export const CATEGORY_SHORT: Record<string, string> = {
   "Business/Professional Services": "PRO",
   "AI and Biotech": "AIB",
-  "Deep Tech Platforms": "DTP",
+  "Consumer": "CON",
 };
 
 export const CATEGORY_HUE: Record<string, string> = {
   "Business/Professional Services": "hsl(var(--cat-pro))",
   "AI and Biotech": "hsl(var(--cat-ai))",
-  "Deep Tech Platforms": "hsl(var(--cat-deep))",
+  "Consumer": "hsl(var(--cat-consumer))",
 };
 
 export const CATEGORY_HUE_VAR: Record<string, string> = {
   "Business/Professional Services": "--cat-pro",
   "AI and Biotech": "--cat-ai",
-  "Deep Tech Platforms": "--cat-deep",
+  "Consumer": "--cat-consumer",
 };
 
 // Parse round string to USD millions number (best-effort)
@@ -61,7 +61,7 @@ export function daysAgo(d: string): number {
       Jul: 6, Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11,
     };
     if (monthName in months) {
-      const today = new Date("2026-07-27");
+      const today = new Date("2026-07-28");
       const guess = new Date(2026, months[monthName], 15);
       return Math.max(0, Math.floor((today.getTime() - guess.getTime()) / 86400000));
     }
@@ -69,7 +69,7 @@ export function daysAgo(d: string): number {
   }
   const parsed = new Date(d);
   if (isNaN(parsed.getTime())) return 60;
-  const today = new Date("2026-07-27");
+  const today = new Date("2026-07-28");
   return Math.max(0, Math.floor((today.getTime() - parsed.getTime()) / 86400000));
 }
 

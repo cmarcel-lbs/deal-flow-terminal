@@ -59,13 +59,13 @@ export function CategoryBadge({ category }: { category: string }) {
       ? "--cat-pro"
       : category === "AI and Biotech"
       ? "--cat-ai"
-      : "--cat-deep";
+      : "--cat-consumer";
   const short =
     category === "Business/Professional Services"
       ? "PRO"
       : category === "AI and Biotech"
       ? "AIB"
-      : "DTP";
+      : "CON";
   return (
     <span
       className="cell px-1.5 py-0.5 rounded border font-semibold"

@@ -212,116 +212,102 @@ export const dealflowData = {
       "source_url": "https://fintech.global/2026/06/12/ai-compliance-startup-compuvi-secures-40m-seed-round/"
     },
     {
-      "category": "Deep Tech Platforms",
-      "company_name": "Traysar",
-      "description_plain": "Traysar builds underground defense vehicles and drones that can tunnel and maneuver beneath the surface for military operations.",
-      "round_size": "$25M",
+      "category": "Consumer",
+      "company_name": "Chance Studios",
+      "description_plain": "Chance Studios operates a community-focused collectibles superapp for Pokémon trading card game (TCG) enthusiasts, letting collectors discover, trade, and share their collections. The Los Angeles-based startup combines e-commerce with social and gamified features for the TCG community.",
+      "round_size": "$3.2M",
+      "stage": "Seed",
+      "date": "2026-04-30",
+      "lead_investor": "Makers Fund and Hashed (co-led)",
+      "other_investors": "Arbitrum Gaming Ventures, Gam3Girl Ventures, Digital Elm",
+      "founders": "Jun Park (CEO), Arvin Dabiri (Co-Founder)",
+      "why_it_matters": "It shows crossover investor appetite between Web3/gaming funds and mainstream consumer collectibles, betting that the TCG resale and community boom (driven by Pokémon card mania) can support a dedicated social superapp rather than relying on eBay or Discord.",
+      "source_name": "Business Wire",
+      "source_url": "https://www.businesswire.com/news/home/20260430687763/en/Chance-Raises-$3M-in-Funding-to-Unite-the-Worlds-TCG-Collectors"
+    },
+    {
+      "category": "Consumer",
+      "company_name": "Shapes",
+      "description_plain": "Shapes is a social app that blends customizable AI characters, called 'Shapes,' directly into human group chats, letting friends interact with AI personalities alongside each other rather than one-on-one.",
+      "round_size": "$8M",
+      "stage": "Seed",
+      "date": "2026-04-29",
+      "lead_investor": "Lightspeed",
+      "other_investors": "AI Capital Partners (Alpha Intelligence Capital US fund), AI Grant, angel investors",
+      "founders": "Anushk Mittal, Noorie Dhingra",
+      "why_it_matters": "Shapes represents a new wave of AI-native social products that treat chatbots as social participants embedded in group dynamics rather than standalone assistants, a thesis several top-tier funds are now betting will define the next generation of consumer social apps.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/"
+    },
+    {
+      "category": "Consumer",
+      "company_name": "District",
+      "description_plain": "District is an AI-powered platform that helps independent sellers build and run online stores, marketplaces, and live-selling experiences, founded by a team of Snapchat alumni.",
+      "round_size": "$14.7M",
+      "stage": "Seed",
+      "date": "2026-05-06",
+      "lead_investor": "Andreessen Horowitz and Kindred Ventures (co-led)",
+      "other_investors": "Greylock Partners, SV Angel, 20VC, Maria Raga (ex-Depop CEO), Gokul Rajaram, Peter Sellis, Imran Khan",
+      "founders": "Eddie Koai, Patrick Mandia, Khoi Tran (all Snapchat alumni)",
+      "why_it_matters": "District is targeting the fragmented independent commerce and live-selling space with AI tooling, drawing top consumer investors and operators (including Depop's former CEO) who believe creator-led, algorithmically-assisted storefronts can outcompete legacy marketplaces like Etsy and eBay.",
+      "source_name": "Fortune",
+      "source_url": "https://fortune.com/2026/05/06/district-snap-seed/"
+    },
+    {
+      "category": "Consumer",
+      "company_name": "swsh",
+      "description_plain": "swsh is an AI-powered fan photo and community platform that helps attendees at live events like concerts and sporting events find, share, and relive professional and fan-captured photos of themselves.",
+      "round_size": "$4M",
+      "stage": "Seed",
+      "date": "2026-06-16",
+      "lead_investor": "Game Changers Ventures",
+      "other_investors": "Stellation Capital, SignalFire, MaC Venture Capital, angel investors Scooter Braun, Guy Oseary, Austin Rief, Hans Tung",
+      "founders": "Alexandra Debow, Weilyn Chong, Nathan Ahn",
+      "why_it_matters": "Backing from music-industry heavyweights Scooter Braun and Guy Oseary signals growing investor interest in monetizing the massive volume of fan-generated and event photography, a market largely untapped by ticketing platforms and social apps today.",
+      "source_name": "Fortune",
+      "source_url": "https://fortune.com/2026/06/16/photo-sharing-app-swsh-scooter-braun-guy-oseary/"
+    },
+    {
+      "category": "Consumer",
+      "company_name": "HaloBraid",
+      "description_plain": "HaloBraid makes a robotic braid-assist device for professional hairstylists, aimed at cutting down the many hours it typically takes to complete protective and textured hairstyles like braids.",
+      "round_size": "$7M",
       "stage": "Seed",
       "date": "2026-06-23",
-      "lead_investor": "Silent Ventures",
-      "other_investors": "Lux Capital, Ora Global, NeverLift VC, Mana, Impatient Ventures, New Vista, Entree Capital",
-      "founders": "Yadin Soffer, Asher Katz, and Gilad Adin",
-      "why_it_matters": "A rare defense-tech seed round focused on subterranean warfare capabilities, an emerging niche as militaries increasingly plan for underground and tunnel-based combat scenarios.",
-      "source_name": "SatNews",
-      "source_url": "https://satnews.com/2026/06/23/underground-maneuver-traysar-emerges-from-stealth-with-25m-seed-round-to-modernize-subterranean-warfare/"
+      "lead_investor": "Seven Seven Six",
+      "other_investors": "AlleyCorp, Bling Capital",
+      "founders": "Yinka Ogunbiyi, David Afolabi",
+      "why_it_matters": "HaloBraid is applying consumer hardware and robotics to an underserved beauty-services niche (textured hair care), a category that has seen little venture investment despite representing billions in annual U.S. salon spending.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/"
     },
     {
-      "category": "Deep Tech Platforms",
-      "company_name": "Mowito",
-      "description_plain": "Mowito builds AI models that give industrial robotic arms better physical awareness and control, similar to giving robots a more capable sense of touch and movement.",
-      "round_size": "$3M",
-      "stage": "Pre-Seed",
-      "date": "2026-07-07",
-      "lead_investor": "Version One Ventures",
-      "other_investors": "All In Capital, Unisol, iSeed, angel investors including Soumith Chintala, Adarsh Kulkarni, Ashish Kulkarni, and Vaibhav Domkundwar",
-      "founders": "Not fully disclosed in source",
-      "why_it_matters": "Backed by notable AI angels including PyTorch co-creator Soumith Chintala, it reflects growing investment in 'physical AI' foundation models for industrial robotics coming out of India.",
-      "source_name": "YourStory",
-      "source_url": "https://yourstory.com/2026/07/startup-news-and-updates-daily-roundup-july-7-2026"
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "company_name": "TaiSan",
-      "description_plain": "TaiSan develops next-generation battery materials made from sodium instead of lithium, aiming to make batteries cheaper and more sustainable.",
-      "round_size": "£4.65M",
+      "category": "Consumer",
+      "company_name": "Talentir",
+      "description_plain": "Talentir is a Vienna-based fintech building AI- and stablecoin-powered payout infrastructure that helps online creators and platforms get paid instantly across borders.",
+      "round_size": "$4.5M (€4M)",
       "stage": "Seed",
-      "date": "2026-07-06",
-      "lead_investor": "Eos Advisory and Midlands Engine Investment Fund II (Mercia Ventures) (co-leads)",
-      "other_investors": "AFI Ventures, EverQuest Capital Partners, Adeline Arts & Science, Techmind, InnoEnergy, TSP Ventures, Exergon, Heartfelt",
-      "founders": "Sanzhar Taizhan, a former Kazakhstani chess champion",
-      "why_it_matters": "Sodium-ion battery materials offer a lower-cost, more sustainable alternative to lithium, addressing supply chain and cost pressures in the battery materials market.",
-      "source_name": "Tech.eu",
-      "source_url": "https://tech.eu/2026/07/06/uk-battery-materials-startup-taisan-founded-by-chess-champion-raises-ps465m/"
+      "date": "2026-06-25",
+      "lead_investor": "Redstone VC",
+      "other_investors": "Inovia Capital, Shapers, Tenity, NewSchool, NOIA Capital, BFC Partners, Cambrena Capital, angel investor Patrick Pichette (ex-Google CFO)",
+      "founders": "Talentir founding team",
+      "why_it_matters": "Talentir taps into the growing convergence of stablecoins and creator monetization, addressing slow, costly cross-border payouts that have long frustrated global creators and the platforms that pay them.",
+      "source_name": "Tech Funding News",
+      "source_url": "https://techfundingnews.com/talentir-4m-seed-fintech-creator-payouts-ai-stablecoin/"
     },
     {
-      "category": "Deep Tech Platforms",
-      "company_name": "EternaFusion",
-      "description_plain": "EternaFusion is a South Korean startup developing compact nuclear fusion reactors using a technology called Tokamak Injection, aiming to make small-scale fusion power practical.",
-      "round_size": "$1.5M",
-      "stage": "Seed",
-      "date": "2026-07-06",
-      "lead_investor": "Not clearly stated (no single lead identified)",
-      "other_investors": "Company K Partners, Bluepoint Partners, Seoul Techno Holdings",
-      "founders": "Not disclosed in source",
-      "why_it_matters": "Adds to the global race toward compact, modular nuclear fusion reactors, an area attracting rising early-stage capital as fusion technology matures beyond mega-scale government projects.",
-      "source_name": "Fusion42",
-      "source_url": "https://raise.fusion-42.com/rounds/d6ba14b6-867d-43f3-9050-e8880c5c6095"
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "company_name": "Arkeon",
-      "description_plain": "Arkeon is a Swedish startup improving how quantum computer chips are manufactured so they work more consistently and reliably.",
-      "round_size": "€594,200 (SEK 6.5M)",
-      "stage": "Seed",
-      "date": "2026-06-12",
-      "lead_investor": "Chalmers Ventures",
-      "other_investors": "Navigare Ventures, Almi Invest",
-      "founders": "Peter Hörstedt, Andreas Nylander, and Marcus Rommel",
-      "why_it_matters": "Addresses a key bottleneck in quantum computing — manufacturing yield and consistency of superconducting chips — which is critical for scaling quantum hardware beyond lab prototypes.",
-      "source_name": "The Quantum Insider",
-      "source_url": "https://thequantuminsider.com/2026/06/12/arkeon-lands-seed-investment-to-boost-quantum-chip-production-yields/"
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "company_name": "Walden Robotics",
-      "description_plain": "Walden Robotics, spun out of a Toyota robotics lab, builds humanoid robots that can work alongside people in factories and warehouses doing repetitive physical tasks.",
-      "round_size": "~$300M",
-      "stage": "Seed",
-      "date": "2026-07-15",
-      "lead_investor": "Deviation Capital and Toyota Motor Corp. (co-leads)",
-      "other_investors": "Toyota's strategic investment and early-stage venture arms, Nvidia, Boeing, AE Ventures, Samsung Ventures, CoreWeave Ventures",
-      "founders": "Russ Tedrake",
-      "why_it_matters": "One of the largest 'seed' rounds ever recorded, it shows how much capital major strategics like Toyota and Nvidia are pouring into humanoid robotics aimed at real factory deployment.",
-      "source_name": "Bloomberg",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation"
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "company_name": "Microagi",
-      "description_plain": "Microagi collects real-world video and data from factories and homes to train the 'brains' of robots, then licenses that data to robotics and AI companies.",
-      "round_size": "$55M",
-      "stage": "Seed",
-      "date": "2026-07-16",
-      "lead_investor": "Not stated in source",
-      "other_investors": "Not stated in source",
-      "founders": "Bercan Kilic, founder and CEO",
-      "why_it_matters": "The largest seed round ever raised in Germany, it highlights how valuable real-world training data has become for scaling humanoid and industrial robotics.",
-      "source_name": "Semafor",
-      "source_url": "https://www.semafor.com/article/07/16/2026/robot-data-startup-microagi-raises-largest-seed-round-ever-in-germany"
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "company_name": "Blurgs AI",
-      "description_plain": "Blurgs AI builds AI-powered intelligence and monitoring tools for defense, maritime, and national security applications.",
-      "round_size": "$2.2M",
+      "category": "Consumer",
+      "company_name": "Savi Security",
+      "description_plain": "Savi Security makes a consumer app that protects users from realistic AI-generated scam calls and texts, including deepfake voice scams, through live-call monitoring and alerts.",
+      "round_size": "$7M",
       "stage": "Seed",
       "date": "2026-07-07",
-      "lead_investor": "Pravega Ventures and Shastra VC (co-leads)",
-      "other_investors": "Angel investors Suraj Nalin and Yashwanth Madhusudhan",
-      "founders": "Not disclosed in source",
-      "why_it_matters": "Part of a wave of Indian defense-tech startups building AI-driven surveillance and security platforms as governments increase spending on maritime and national security technology.",
-      "source_name": "YourStory",
-      "source_url": "https://yourstory.com/2026/07/startup-news-and-updates-daily-roundup-july-7-2026"
+      "lead_investor": "Acrew Capital",
+      "other_investors": "Magnify Ventures, TTCER, Resolute Ventures",
+      "founders": "Patrick Coughlin, Ryan Coughlin",
+      "why_it_matters": "As generative AI makes voice-cloning scams (like fake kidnapping/ransom calls) increasingly convincing and widespread, Savi is among the first consumer security startups building dedicated defenses against AI-powered fraud, a rapidly growing threat category.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/"
     }
   ],
   "founders": [
@@ -458,76 +444,88 @@ export const dealflowData = {
       "source_url": "https://synaptic.com/resources/tip-offs/digital-health-startups-and-founders"
     },
     {
-      "category": "Deep Tech Platforms",
-      "founder_name": "Sam Rogers",
-      "company_name": "GrazeMate (now Brumby)",
-      "description_plain": "Autonomous AI-powered drones that herd and muster cattle on large ranches, reducing labor costs and improving livestock management for the beef industry.",
-      "buzz_signal": "GrazeMate (rebranded Brumby) launched publicly via Y Combinator's Summer 2026 batch materials in July 2026 and was named among notable W26/S26 standouts by Startup Intros on July 13, 2026, following its earlier AgFunderNews feature.",
-      "funding_status": "YC batch + $1.2M pre-seed (Antler, NextGen Ventures, Meat & Livestock Australia — non-tier-1)",
-      "social_handle": "Samson Rogers",
-      "social_url": "https://www.linkedin.com/in/samson-rogers",
-      "source_name": "Y Combinator Launch",
-      "source_url": "https://www.ycombinator.com/launches/PKm-grazemate-now-brumby-drones-that-herd-cattle"
+      "category": "Consumer",
+      "founder_name": "lemorion_1224 & Haganeiro",
+      "company_name": "Meccha Chameleon",
+      "description_plain": "A two-person indie game studio based in Japan that built a viral hide-and-seek multiplayer game where players paint their bodies to camouflage into the environment. The game was built in about two months and became one of the biggest breakout indie hits of 2026.",
+      "buzz_signal": "Meccha Chameleon surpassed 15 million copies sold on Steam within about a month of its June 10, 2026 launch, with the milestone reported on July 5-6, 2026, and the developers also had to respond publicly to a Discord/server hacking incident affecting the game on July 26, 2026.",
+      "funding_status": "Bootstrapped (self-published, two-person indie team, no external funding)",
+      "social_handle": "@lemorion1224",
+      "social_url": "https://x.com/lemorion1224",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/sports/fixes-roll-out-after-meccha-chameleon-servers-infected-with-malware-discord-hacked/"
     },
     {
-      "category": "Deep Tech Platforms",
-      "founder_name": "Cynthia Liao",
-      "company_name": "Vertical Semiconductor",
-      "description_plain": "MIT spinout commercializing vertical gallium nitride (GaN) power transistors designed to make AI data-center power delivery dramatically more efficient.",
-      "buzz_signal": "Vertical Semiconductor's progress and hiring were highlighted in a LinkedIn post on July 20, 2026, building on its earlier $11M seed announcement and MIT News/Reuters coverage.",
-      "funding_status": "Seed-funded ($11M seed led by Playground Global, with JIMCO Technology Fund, milemark•capital, Shin-Etsu Chemical — non-tier-1)",
-      "social_handle": "Cynthia Liao",
-      "social_url": "https://www.linkedin.com/in/cynthia-liao-61180856",
-      "source_name": "Vertical Semiconductor",
-      "source_url": "https://www.verticalsemi.com/news/vertical-semiconductor-raises-11-million-to-deliver-the-next-wave-of-power-for-ai-chips-and-data-centers"
+      "category": "Consumer",
+      "founder_name": "Cakez77 (Cakez)",
+      "company_name": "Tangy TD",
+      "description_plain": "A German Twitch streamer and solo indie game developer who spent four years building Tangy TD, a custom-engine roguelite tower defense game, entirely by himself while documenting the process live on stream.",
+      "buzz_signal": "A viral clip of Cakez revealing to his wife on livestream that Tangy TD had earned over $600,000 in net revenue one month after its March 9, 2026 launch continued circulating and was covered by gaming outlets into mid-April 2026, with continued creator-community discussion through summer 2026.",
+      "funding_status": "Bootstrapped (self-funded solo developer, Patreon-supported)",
+      "social_handle": "@Cakez77",
+      "social_url": "https://twitter.com/Cakez77",
+      "source_name": "Inkl (Sportskeeda syndication)",
+      "source_url": "https://www.inkl.com/news/solo-dev-livestreams-the-moment-his-wife-learns-his-4-year-indie-project-made-600k-on-steam-in-just-one-month-she-didn-t-think-it-would-be-this-much"
     },
     {
-      "category": "Deep Tech Platforms",
-      "founder_name": "Jayram Palamadai",
-      "company_name": "Byteport",
-      "description_plain": "Developer of DART, a data transport protocol up to 1500x faster than TCP for transferring massive files across AI, robotics, satellite, and defense networks; founded by an 18-year-old who dropped out of a full-ride at Georgia Tech.",
-      "buzz_signal": "Byteport was profiled in StartupHub.ai's 'Claude's Corner' feature on June 27, 2026, and continued shipping DART protocol updates through its news page as of July 3, 2026.",
-      "funding_status": "Seed-funded (Y Combinator, Pioneer Fund, Spot VC — non-tier-1)",
-      "social_handle": "Jayram Palamadai",
-      "social_url": "https://www.linkedin.com/in/jayram-palamadai",
-      "source_name": "StartupHub.ai",
-      "source_url": "https://www.startuphub.ai/ai-news/claudes-corner/2026/claudes-corner-byteport-yc-w2026"
+      "category": "Consumer",
+      "founder_name": "Evan Yadegari",
+      "company_name": "Locked / 10X",
+      "description_plain": "A teenage founder (15) who built and scaled Locked, a gamified habit and productivity app, to over $14,000-$15,000 per month using influencer-driven organic growth, and has since launched 10X, an AI-powered app-building platform for founders that hit $30K ARR in its first 30 days.",
+      "buzz_signal": "Featured on the Superwall Podcast on June 7, 2026, breaking down his bootstrapped influencer marketing playbook, and continued to post growth updates on LinkedIn and X about scaling 10X through July 2026.",
+      "funding_status": "Bootstrapped",
+      "social_handle": "@EvanYadegari",
+      "social_url": "https://x.com/EvanYadegari",
+      "source_name": "Superwall Podcast (YouTube)",
+      "source_url": "https://www.youtube.com/watch?v=qYYeu0E-1SI"
     },
     {
-      "category": "Deep Tech Platforms",
-      "founder_name": "Andre Luiten & Martin O'Connor",
-      "company_name": "QuantX Labs",
-      "description_plain": "University of Adelaide spinout developing compact optical atomic clocks for defense, space, and critical-infrastructure precision timing, an alternative to GPS-based systems.",
-      "buzz_signal": "QuantX Labs closed its first outside capital round, a US$5M (~A$7M) seed led by Serendipity Capital, reported by Innovation Bay's Startup Funding Pulse on July 6, 2026, after years of bootstrapping with customers including SpaceX and the Department of Defense.",
-      "funding_status": "Seed-funded (US$5M led by Serendipity Capital — first outside capital, non-tier-1)",
-      "social_handle": "QuantX Labs",
-      "social_url": "https://www.linkedin.com/company/quantx-labs",
-      "source_name": "Innovation Bay",
-      "source_url": "https://innovationbay.com/insights/startup-funding-pulse-june-2026/"
+      "category": "Consumer",
+      "founder_name": "Rana Naskar",
+      "company_name": "DesireLand",
+      "description_plain": "Founder and CEO of DesireLand, an India-based privacy-first, intent-led dating app that has grown into one of the top-grossing dating apps in India without raising any external venture funding.",
+      "buzz_signal": "Continued founder-story momentum on LinkedIn through 2026, including a July 21, 2026 post detailing DesireLand's product-led growth approach, following earlier viral posts noting the app reached profitability in two months and nearly ₹14 crore ARR within 18 months, entirely bootstrapped.",
+      "funding_status": "Bootstrapped",
+      "social_handle": "rananaskar",
+      "social_url": "https://www.linkedin.com/in/rananaskar",
+      "source_name": "LinkedIn",
+      "source_url": "https://www.linkedin.com/posts/rananaskar_at-desireland-we-dont-guess-what-to-build-activity-7485183607523778560-Jdfb"
     },
     {
-      "category": "Deep Tech Platforms",
-      "founder_name": "Ethan Barajas & Jamie Palmer",
-      "company_name": "Icarus Robotics",
-      "description_plain": "Space robotics company building autonomous systems for in-orbit servicing and satellite maintenance, growing from a two-person team into an ISS mission partner.",
-      "buzz_signal": "Icarus Robotics announced an ISS mission deal with Voyager Technologies on March 30, 2026, with continued momentum reported through the spring on founder and investor social channels leading into mid-2026.",
-      "funding_status": "Angel/seed-funded ($6.1M oversubscribed seed led by Soma Capital and Xtal — non-tier-1)",
-      "social_handle": "@Icarus_Robotics",
-      "social_url": "https://x.com/Icarus_Robotics",
-      "source_name": "RTE News",
-      "source_url": "https://www.rte.ie/news/munster/2026/0330/1565895-space-robots/"
+      "category": "Consumer",
+      "founder_name": "Jessica Flor",
+      "company_name": "Hexwave Games",
+      "description_plain": "Founder and CEO of Hexwave, a Sacramento-based indie game studio and publishing collective building a creator-focused gaming community that supports diverse indie developers with tools, mentorship, and trust-based collaboration.",
+      "buzz_signal": "Named one of the standout founders in the 'Startup Founder of the Month' roundup published July 2, 2026, highlighted for building a community model blending indie game development with creator support infrastructure.",
+      "funding_status": "Bootstrapped / self-funded indie studio",
+      "social_handle": "fishiflor",
+      "social_url": "https://www.linkedin.com/in/fishiflor",
+      "source_name": "Mean CEO's Blog",
+      "source_url": "https://blog.mean.ceo/startup-founder-of-the-month-news-july-2026/"
     },
     {
-      "category": "Deep Tech Platforms",
-      "founder_name": "Shaurya Kaushal & Roshan George",
-      "company_name": "Pranos Fusion",
-      "description_plain": "Fusion-energy technology startup developing compact reactor components aimed at accelerating the path to commercially viable fusion power.",
-      "buzz_signal": "Pranos Fusion's $6.8M seed round, announced March 24, 2026 with angel backing from Groww and Razorpay founders, continued generating founder-shared LinkedIn coverage through Q2 2026.",
-      "funding_status": "Angel/seed-funded ($6.8M seed co-led by pi Ventures and Ankur Capital — non-tier-1)",
-      "social_handle": "Shaurya Kaushal",
-      "social_url": "https://www.linkedin.com/in/shaurya--kaushal",
-      "source_name": "Economic Times",
-      "source_url": "https://economictimes.com/tech/funding/nuclear-fusion-startup-pranos-raises-6-8-million-in-round-co-led-by-pi-ventures-ankur-capital/articleshow/129757710.cms"
+      "category": "Consumer",
+      "founder_name": "Imanishimwe Valens",
+      "company_name": "Jimvio",
+      "description_plain": "Rwandan entrepreneur who founded Jimvio, an AI-powered creator commerce platform that lets creators, entrepreneurs, affiliates, and brands sell digital and physical products, run affiliate programs, manage communities, and use AI tools to streamline commerce and marketing, all from one platform.",
+      "buzz_signal": "Profiled by Disrupt Africa on July 13, 2026 and We Are Tech Africa on July 14, 2026 for scaling Jimvio's all-in-one creator commerce platform across Africa while remaining founder-funded and preparing for continental expansion.",
+      "funding_status": "Bootstrapped / founder-funded",
+      "social_handle": "Jimvio",
+      "social_url": "https://www.linkedin.com/company/jimvio",
+      "source_name": "Disrupt Africa",
+      "source_url": "https://disruptafrica.com/2026/07/13/how-rwandas-jimvio-uses-ai-to-help-creators-monetise-their-businesses/"
+    },
+    {
+      "category": "Consumer",
+      "founder_name": "Tibo Louis-Lucas",
+      "company_name": "Outrank / Revid.ai / SuperX / PostSyncer / Feather (TMAKER portfolio)",
+      "description_plain": "French serial indie hacker running a portfolio of five bootstrapped creator and SaaS tools (Outrank for SEO content, Revid.ai for AI short-form video, SuperX for X/Twitter growth, PostSyncer for cross-platform publishing, and Feather for turning Notion pages into blogs), after previously bootstrapping and selling Tweet Hunter and Taplio for $8M.",
+      "buzz_signal": "Featured on This Week in Startups on July 13, 2026 discussing his bootstrapped growth tactics, following his March 2026 disclosure of crossing $1 million per month across his product portfolio without ever raising venture capital.",
+      "funding_status": "Bootstrapped",
+      "social_handle": "@tibo_maker",
+      "social_url": "https://x.com/tibo_maker",
+      "source_name": "This Week in Startups",
+      "source_url": "https://bilingualpodcastplayer.com/episode/207955"
     }
   ],
   "traction": [
@@ -602,36 +600,6 @@ export const dealflowData = {
       "source_url": "https://www.youtube.com/watch?v=U40zjgEMTGQ"
     },
     {
-      "category": "Deep Tech Platforms",
-      "product_name": "reBot-DevArm",
-      "description_plain": "A fully open-source robotic arm platform (hardware and software) designed to lower the barrier to learning embodied AI, with Python SDK, ROS1/2, Isaac Sim, and LeRobot ecosystem support.",
-      "traction_signal": "3.5K GitHub stars on its open-source repository, with hardware licensed under CERN-OHL-W-2.0 and firmware under Apache-2.0",
-      "funding_status": "No VC yet",
-      "product_url": "https://github.com/Seeed-Projects/reBot-DevArm",
-      "source_name": "GitHub",
-      "source_url": "https://github.com/Seeed-Projects/reBot-DevArm"
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "product_name": "SimpleX Chat",
-      "description_plain": "A messaging network and set of iOS, Android, and desktop apps that operate without any user identifiers, offering fully private, decentralized communication by design.",
-      "traction_signal": "Ranked among the top trending GitHub repositories with 135 new stars gained in a single day (July 2026 trending snapshot)",
-      "funding_status": "No VC yet",
-      "product_url": "https://github.com/simplexchat/simplexchat",
-      "source_name": "YouTube (GitHub Trending)",
-      "source_url": "https://www.youtube.com/watch?v=sQjz_p7nMeI"
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "product_name": "USearch",
-      "description_plain": "A compact, single-header C++ vector similarity search and clustering engine positioned as a smaller, faster alternative to FAISS, with bindings for Python, JavaScript, Java, Rust, Swift, and more.",
-      "traction_signal": "4.2K GitHub stars and 327 forks, maintained independently by a single developer (Ash Vardanian) without institutional backing",
-      "funding_status": "No VC yet",
-      "product_url": "https://github.com/unum-cloud/usearch",
-      "source_name": "DEV.co",
-      "source_url": "https://dev.co/ai/vector-databases/usearch"
-    },
-    {
       "category": "Business/Professional Services",
       "product_name": "My AskAI",
       "description_plain": "An AI customer support tool that integrates with existing helpdesk platforms like Intercom, Zendesk, and Freshdesk, training on a company's knowledge base to automatically deflect routine support tickets.",
@@ -650,6 +618,46 @@ export const dealflowData = {
       "product_url": "https://www.quittr.io",
       "source_name": "Tech Times",
       "source_url": "https://www.techtimes.com/articles/310068/20250420/bootstrapped-revolution-why-quittrs-anti-vc-approach-disrupting-mental-health-tech.htm"
+    },
+    {
+      "category": "Consumer",
+      "product_name": "Once",
+      "description_plain": "Disposable-camera-style photo app for events like weddings, birthdays, and corporate parties. Guests join via QR code or an Apple App Clip (no app download required), take a limited number of shots, and photos are revealed in a shared album after the event ends.",
+      "traction_signal": "Reached $20K MRR within 83 days of its December 2025 launch; grew to roughly $22,000/month revenue with 10,000-12,000 weekly active users and 300+ events booked in a single month as of mid-2026.",
+      "funding_status": "Bootstrapped",
+      "product_url": "https://once.film/",
+      "source_name": "Starter Story",
+      "source_url": "https://podsized.io/podcasts/starter-story/episodes/i-built-a-20kmonth-app-in-83-days-starter-story-9cd673cb-6c52-4b30-b5b5-c6158aa2d1ea"
+    },
+    {
+      "category": "Consumer",
+      "product_name": "Meccha Chameleon",
+      "description_plain": "Multiplayer casual hide-and-seek indie game on Steam in which players paint their character to camouflage into the environment and evade 'seekers.' Built by a two-person Japanese indie team and self-published with no publisher.",
+      "traction_signal": "Launched June 10, 2026 on Steam and sold 1 million copies in 4 days, 10 million in 16 days, and 15 million copies by July 5, 2026, with peak concurrent players exceeding 300,000 and zero advertising spend.",
+      "funding_status": "Bootstrapped",
+      "product_url": "https://store.steampowered.com/app/4704690",
+      "source_name": "Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Meccha_Chameleon"
+    },
+    {
+      "category": "Consumer",
+      "product_name": "Fypro",
+      "description_plain": "AI 'creator growth engine' for TikTok creators that reads a creator's account and auto-generates a branded website, a storefront with niche-matched dropshippable products, AI-generated video content in the creator's voice, and an owned email/customer list.",
+      "traction_signal": "Public beta used by 2,000+ active creators, trained on 4M+ viral TikToks, with creator content generating 10M+ views in the prior quarter; ranked #5 on Product Hunt's monthly leaderboard for July 2026 with 708 upvotes and 246 comments.",
+      "funding_status": "No VC yet",
+      "product_url": "https://www.fypro.ai/",
+      "source_name": "Business Insider / GlobeNewswire",
+      "source_url": "https://markets.businessinsider.com/news/stocks/fypro-ai-launches-the-first-ai-engine-to-turn-creators-audiences-into-monetization-1036276336"
+    },
+    {
+      "category": "Consumer",
+      "product_name": "San Fran Sim",
+      "description_plain": "Free, browser-based isometric startup-tycoon simulation game where players run a software company from a garage to an IPO, managing feature shipping, bug fixes, hiring, and burn rate while learning real SaaS metrics like MRR, churn, LTV, and CAC.",
+      "traction_signal": "Launched on Product Hunt July 11, 2026, placing #3 on the daily leaderboard with roughly 248-358 upvotes and 99 comments; built solo by serial indie hacker Daniel Kempe with no team or outside funding.",
+      "funding_status": "Bootstrapped",
+      "product_url": "https://sanfransim.com/",
+      "source_name": "Product Hunt",
+      "source_url": "https://www.producthunt.com/products/san-fran-sim"
     }
   ],
   "events": [
@@ -796,18 +804,6 @@ export const dealflowData = {
       "cost": "Paid (ticketed, cash bar)",
       "registration_url": "https://www.meetup.com/nyctechmixer/",
       "source_url": "https://www.garysguide.com/events/1z7bs3c/NYC-Tech-Mixer"
-    },
-    {
-      "event_name": "Entrepreneurs Roundtable w/ Refashiond Ventures",
-      "date": "2026-08-04",
-      "time": "6:00 PM",
-      "venue": "Venue TBA",
-      "neighborhood": "Manhattan",
-      "description_plain": "A roundtable discussion for entrepreneurs hosted by Brian Laung Aoaeh of REFASHIOND Ventures, a deep-tech and supply-chain focused venture fund, aimed at founders and investors in industrial and deep-tech sectors.",
-      "category": "Deep Tech Platforms",
-      "cost": "Free",
-      "registration_url": "https://www.garysguide.com/events",
-      "source_url": "https://www.garysguide.com/events"
     },
     {
       "event_name": "Female Founders & Funders",
@@ -966,87 +962,79 @@ export const dealflowData = {
       "source_url": "https://luma.com/ssxegfxp"
     },
     {
-      "event_name": "August Innovators Social",
-      "date": "2026-08-27",
-      "time": "4:00 PM",
-      "venue": "CUNY Advanced Science Research Center, 85 St Nicholas Terrace",
-      "neighborhood": "Manhattan (Harlem)",
-      "description_plain": "A social event connecting deep-tech and applied-science innovators, researchers, and founders, hosted with ASRC CAT, HB, and Activate NY, geared toward deep-tech and hard-science startup ecosystems.",
-      "category": "Deep Tech Platforms",
+      "event_name": "Creator Economy Mixer",
+      "date": "2026-07-28",
+      "time": "6:30 PM",
+      "venue": "Venue To Be Announced (location shared upon RSVP approval)",
+      "neighborhood": "Manhattan",
+      "description_plain": "Creator Economy NYC and TopFan host an evening of networking and conversation with creators, marketers, platforms, and industry leaders shaping the creator economy, with participation from Adobe Express, TopFan, Siftsy, and Wishly. Discussion focuses on building lasting creator businesses, audience ownership, and direct fan relationships beyond platform dependency. RSVP approval is required for entry.",
+      "category": "Consumer",
       "cost": "Free",
-      "registration_url": "https://www.garysguide.com/events",
-      "source_url": "https://www.garysguide.com/events"
+      "registration_url": "https://www.garysguide.com/events/vqe49sj/Creator-Economy-Mixer",
+      "source_url": "https://www.garysguide.com/events/vqe49sj/Creator-Economy-Mixer"
     },
     {
-      "event_name": "AI Enterprise Conference",
-      "date": "2026-09-01",
-      "time": "9:00 AM",
-      "venue": "Pier Sixty, 60 Chelsea Piers",
-      "neighborhood": "Manhattan (Chelsea)",
-      "description_plain": "A large enterprise AI conference featuring data science and AI leaders from Bloomberg, Citi, New Balance, BlackRock, and Morgan Stanley, aimed at enterprise AI founders, executives, and investors evaluating applied AI platforms.",
-      "category": "Deep Tech Platforms",
-      "cost": "$499",
-      "registration_url": "https://www.garysguide.com/events",
-      "source_url": "https://www.garysguide.com/events"
+      "event_name": "Creator Economy Live East 2026",
+      "date": "2026-07-29",
+      "time": "9:00 AM – 6:00 PM (Official Party at 8:00 PM)",
+      "venue": "New York Marriott Marquis, 1535 Broadway",
+      "neighborhood": "Times Square, Manhattan",
+      "description_plain": "The largest East Coast influencer marketing and creator economy conference, bringing together 500+ brands including Anthropologie, Estee Lauder, Disney, American Express, L'Oreal, AG1, and Amazon alongside creators, agencies, and platform operators. Sessions cover creator partnerships, TikTok Shop strategy, creator-generated content, and monetization, with speakers from TikTok Shop, QVC, Zillow, Best Buy, and Creator Match. Free for the first 500 registered brands.",
+      "category": "Consumer",
+      "cost": "Free for first 500 brands; All Access Pass otherwise ~$399-$999",
+      "registration_url": "https://www.creatoreconomylive.com/east/attend/register",
+      "source_url": "https://www.creatoreconomylive.com/east"
     },
     {
-      "event_name": "NY Tech Meetup - Climate Tech Edition",
-      "date": "2026-09-21",
-      "time": "5:00 PM",
-      "venue": "Civic Hall, 124 E 14th St",
-      "neighborhood": "Manhattan (Union Square)",
-      "description_plain": "A special climate-tech-focused edition of the long-running NY Tech Meetup demo night, where climate and deep-tech startups showcase live products to an audience of founders, engineers, and investors, followed by Q&A and networking.",
-      "category": "Deep Tech Platforms",
-      "cost": "Free",
-      "registration_url": "https://www.nytech.org/our_events",
-      "source_url": "https://www.garysguide.com/events"
+      "event_name": "Ugly Talk: Winners & Wipeouts In Social Commerce",
+      "date": "2026-07-31",
+      "time": "6:00 PM – 8:00 PM",
+      "venue": "AFM Agency",
+      "neighborhood": "Manhattan",
+      "description_plain": "A candid founder storytelling evening where DTC and social commerce operators share the pivotal wins and failures that shaped their path. Featured speakers include Harley Sutton (Founder/CEO, Thanks! Naturals), Ethan Ma (Founder/CEO, AFM), and Shea Daspin (Miracle Miles Group), discussing what actually works and what doesn't in scaling consumer brands via social and creator-led commerce.",
+      "category": "Consumer",
+      "cost": "$25",
+      "registration_url": "https://www.garysguide.com/events/dc2y4rp/Ugly-Talk-Winners-Wipeouts-In-Social-Commerce",
+      "source_url": "https://www.garysguide.com/events/dc2y4rp/Ugly-Talk-Winners-Wipeouts-In-Social-Commerce"
+    },
+    {
+      "event_name": "Nexus Mixer (NYC Retail & Consumer Brands - August Edition)",
+      "date": "2026-08-25",
+      "time": "7:00 AM",
+      "venue": "Venue To Be Announced (shared upon approval)",
+      "neighborhood": "Manhattan",
+      "description_plain": "An intimate, approval-only morning gathering hosted by RTM Nexus for senior leaders across retail, consumer brands, and the broader commerce ecosystem. Brings together brand and retail executives spanning ecommerce, marketing, merchandising, partnerships, and digital innovation for curated peer conversations and relationship building. Past attendee companies have included Estee Lauder, Tory Burch, Harry's, and Amazon.",
+      "category": "Consumer",
+      "cost": "Not stated (approval required)",
+      "registration_url": "https://www.garysguide.com/events/ar2afhc/Nexus-Mixer",
+      "source_url": "https://www.garysguide.com/events/ar2afhc/Nexus-Mixer"
+    },
+    {
+      "event_name": "StrictlyVC NYC 2026",
+      "date": "2026-09-10",
+      "time": "6:00 PM – 8:00 PM",
+      "venue": "Ideal Glass Studios, 9 W 8th Street",
+      "neighborhood": "West Village, Manhattan",
+      "description_plain": "StrictlyVC's first New York City event since 2024, bringing together the startup, VC, and dealmaking community for an evening of programming and networking. Craig Shapiro (Collaborative Fund) joins TechCrunch editor-in-chief Connie Loizos for a session on community, fandom, and real-world connection as investment themes. Tristan Walker, founder of Heirloom Craft (and previously Walker & Company/Bevel), discusses building influential consumer startups and his approach to brand-building in the current landscape.",
+      "category": "Consumer",
+      "cost": "$180 general admission",
+      "registration_url": "https://techcrunch.com/events/strictlyvc-nyc-2026/",
+      "source_url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/"
+    },
+    {
+      "event_name": "DTC Live Connect NYC 2026",
+      "date": "2026-09-15",
+      "time": "Full day (times TBA)",
+      "venue": "The Standard, High Line",
+      "neighborhood": "Meatpacking District, Manhattan",
+      "description_plain": "DTC Live's fastest-growing US ecommerce conference, bringing together direct-to-consumer brand founders, marketers, operators, and investors for a day of lightning talks, panels, and networking. Programming covers customer acquisition and retention, creator-led conversions, AI in retail and fashion commerce, and navigating the competitive DTC landscape.",
+      "category": "Consumer",
+      "cost": "Paid; ranges from approximately $70 (retailers/brands) to $960 (tech)",
+      "registration_url": "https://www.dtclive.com/dtc-live-new-york",
+      "source_url": "https://www.dtclive.com/events/dtc-live-connect-nyc"
     }
   ],
   "social": [
-    {
-      "category": "Deep Tech Platforms",
-      "platform": "X",
-      "author": "Etched",
-      "author_role": "AI chip startup (official company account)",
-      "topic": "Transformer-specific AI inference chip",
-      "summary_plain": "Etched announced its exit from stealth mode with working first-generation racks after a successful A0 tapeout of its Sohu chip, more than $1 billion in signed customer contracts, and $800 million raised. The company claims state-of-the-art throughput, latency, and power efficiency for transformer inference workloads, positioning itself as a direct challenger to Nvidia.",
-      "why_matters": "It signals growing investor and customer conviction that purpose-built ASICs can beat general-purpose GPUs on inference economics, a thesis with major implications for the AI infrastructure stack.",
-      "engagement": "6.3M views, 9.7K likes, 9.3K reposts, 6.5K replies",
-      "post_url": "https://x.com/Etched/status/2071972062202343590"
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "platform": "X",
-      "author": "Reuters",
-      "author_role": "News organization (wire service)",
-      "topic": "DOGE alumni military cyber startup",
-      "summary_plain": "Reuters reported exclusively that a group of former DOGE staffers, including Gavin Kliger, Luke Farritor, Marko Elez, and Jack Stein, launched Cathedral, a military cyber operations startup that raised $160 million at a $1.4 billion valuation led by a16z and Sequoia. The rapid rise from government efficiency work to a unicorn-valued defense tech company drew wide attention.",
-      "why_matters": "It illustrates how quickly politically connected technical talent can convert government experience into venture-backed defense tech platforms, a notable trend in deep tech investing.",
-      "engagement": "41.5K views, 606 reposts, 12,012 likes, 202 replies",
-      "post_url": "https://x.com/Reuters/status/2080027791303508177"
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "platform": "X",
-      "author": "Jensen Huang",
-      "author_role": "CEO, NVIDIA",
-      "topic": "Open weights AI leadership letter",
-      "summary_plain": "In his first-ever X post, Jensen Huang shared a joint letter titled 'Open Weights and American AI Leadership,' signed by 25 organizations including NVIDIA, Microsoft, Meta, Palantir, Hugging Face, Perplexity, and a16z, arguing that the US needs both closed and open frontier AI models to maintain safety, cybersecurity, and sovereignty. Elon Musk reposted the letter approvingly.",
-      "why_matters": "The debate over open versus closed AI models has become a central fault line in AI infrastructure policy, and Huang's rare personal endorsement amplified the open-weights camp's visibility.",
-      "engagement": "3.4M+ views",
-      "post_url": "https://x.com/JensenHuang/status/2080643682408321103"
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "platform": "X",
-      "author": "TechCrunch",
-      "author_role": "Technology news outlet",
-      "topic": "Oratomic quantum computing raise",
-      "summary_plain": "TechCrunch reported that quantum computing startup Oratomic raised $300 million to build a viable quantum computer that requires only 20,000 qubits, far fewer than most industry roadmaps assume are needed for fault tolerance. The claim builds on research suggesting atomic quantum computing could dramatically reduce the particle count needed per qubit.",
-      "why_matters": "A credible path to a fault-tolerant quantum computer with an order-of-magnitude fewer qubits would reshape venture capital and government funding priorities across the quantum computing sector.",
-      "engagement": "high engagement wire-style post (exact like count not disclosed by platform)",
-      "post_url": "https://x.com/TechCrunch/status/2075596507009671317"
-    },
     {
       "category": "AI and Biotech",
       "platform": "X",
@@ -1158,17 +1146,6 @@ export const dealflowData = {
       "post_url": "https://www.linkedin.com/posts/ai-forlawyers_legaltech-lawfirms-futureoflaw-activity-7487329670061993984-rhgH"
     },
     {
-      "category": "Deep Tech Platforms",
-      "platform": "X",
-      "author": "Patrick O'Shaughnessy",
-      "author_role": "Investor and podcast host (Positive Sum / Invest Like the Best)",
-      "topic": "Etched chip founder story commentary",
-      "summary_plain": "Patrick O'Shaughnessy commented on Etched's stealth exit, noting that three years earlier two Harvard dropouts set out to build a better AI chip than the world's largest tech companies, and 'almost everyone' he spoke to at the time said it was impossible. He highlighted the milestone of a working next-generation AI chip alongside $800 million raised and $1 billion in signed contracts.",
-      "why_matters": "The commentary from a prominent investor voice reinforces the narrative that contrarian deep-tech hardware bets against incumbents like Nvidia can pay off, encouraging more venture interest in specialized silicon.",
-      "engagement": "notable engagement among venture and hardware commentary circles",
-      "post_url": "https://x.com/patrick_oshag/status/2071972025896489452"
-    },
-    {
       "category": "AI and Biotech",
       "platform": "Reddit",
       "author": "r/singularity community (aggregated coverage)",
@@ -1189,6 +1166,72 @@ export const dealflowData = {
       "why_matters": "Mainstream tech press amplification of the Buzz launch signals how seriously the market is taking the shift toward AI agents as embedded, first-class participants in day-to-day professional workflows.",
       "engagement": "widely shared tech-press coverage tweet",
       "post_url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
+    },
+    {
+      "category": "Consumer",
+      "platform": "X",
+      "author": "Peter Yang",
+      "author_role": "Head of Product, Roblox Ads & Creator-economy newsletter writer (Creator Economy)",
+      "topic": "AI slop editing tool launch",
+      "summary_plain": "Peter Yang open-sourced a free \"no-ai-slop\" writing skill that strips out more than 20 common AI-generated writing patterns like fake-profound endings and binary contrasts. He framed it as a way to use AI responsibly for editing without letting it fully automate content creation.",
+      "why_matters": "It captures a growing backlash among creators and consumer-facing writers against homogenized AI content, and shows a prominent creator-economy voice shipping a practical tool rather than just commentary, a signal of how creators are productizing their own workflows.",
+      "engagement": "4.9K likes, 299 reposts, 256 replies",
+      "post_url": "https://x.com/petergyang/status/2079943830024188105"
+    },
+    {
+      "category": "Consumer",
+      "platform": "X",
+      "author": "Andrew Chen",
+      "author_role": "General Partner, Andreessen Horowitz (a16z Speedrun)",
+      "topic": "Consumer/AI startup hiring pipeline",
+      "summary_plain": "Andrew Chen announced that a16z is helping connect job seekers with startups from its Speedrun accelerator, noting the fund has now invested in over 350 companies. He said he's personally met all the founders and is betting they include the next breakout consumer and AI companies.",
+      "why_matters": "Signals continued aggressive early-stage capital deployment into consumer and AI startups by one of the most influential consumer VCs, and reflects the growing role top accelerators play as informal talent marketplaces for the startup ecosystem.",
+      "engagement": "428 likes, 46 reposts",
+      "post_url": "https://www.linkedin.com/posts/andrewchen_for-folks-thinking-about-a-role-change-this-activity-7482851644548804608-ELCm"
+    },
+    {
+      "category": "Consumer",
+      "platform": "Reddit",
+      "author": "u/akbarock",
+      "author_role": "r/Steam community member",
+      "topic": "Indie game viral breakout success",
+      "summary_plain": "A Reddit post reported that the two-person indie game Meccha Chameleon sold over 15 million copies within a month of launch, outselling major AAA titles like Resident Evil Requiem and Forza Horizon 6. The $6 hide-and-seek party game went viral purely through streamer clips and word-of-mouth with zero marketing spend.",
+      "why_matters": "It's one of the clearest recent examples of an indie consumer product achieving massive commercial success through organic social virality rather than paid marketing, reinforcing that low-price, highly shareable mechanics can now outcompete big-budget releases.",
+      "engagement": "6,557 upvotes, 215 comments",
+      "post_url": "https://www.reddit.com/r/Steam/comments/1uo22fv/mecha_chameleon_has_sold_15_million_units/"
+    },
+    {
+      "category": "Consumer",
+      "platform": "Reddit",
+      "author": "u/akbarock",
+      "author_role": "r/gaming community member",
+      "topic": "Indie game viral breakout success",
+      "summary_plain": "This companion post in r/gaming covered the same Meccha Chameleon milestone, sparking discussion about the game's outsized popularity in the Chinese market and comparisons to prior social party-game hits like Human: Fall Flat. Commenters debated whether regional streaming culture or price point drove the surge.",
+      "why_matters": "The cross-subreddit discussion illustrates how consumer gaming virality now plays out simultaneously across multiple platforms and geographies, with community sleuthing acting as an informal market-research layer for the creator/gaming economy.",
+      "engagement": "4,076 upvotes, 420 comments",
+      "post_url": "https://www.reddit.com/r/gaming/comments/1uo21tt/mecha_chameleon_has_sold_15_million_units/"
+    },
+    {
+      "category": "Consumer",
+      "platform": "X",
+      "author": "Rusan",
+      "author_role": "Crypto/creator-economy commentator",
+      "topic": "Creator economy power imbalance",
+      "summary_plain": "Rusan argued that despite the hype around the creator economy, most creators are effectively doing unpaid labor for platforms that unilaterally control algorithms, payout rules, and reach. He described a friend who lost half her audience reach overnight after an algorithm change with no explanation or appeal.",
+      "why_matters": "This captures a recurring and increasingly vocal critique among creator-economy commentators: that platform dependency, not lack of talent or effort, remains the core structural risk for creators building businesses on rented digital land.",
+      "engagement": "2.3K+ likes, 202 reposts, 1.3K+ replies",
+      "post_url": "https://x.com/RusanX/status/2079792238675329175"
+    },
+    {
+      "category": "Consumer",
+      "platform": "Reddit",
+      "author": "u/EliasWick",
+      "author_role": "r/gamedev community member / indie developer",
+      "topic": "Indie game market saturation",
+      "summary_plain": "A Reddit post using SteamDB data found that over 12,289 games launched on Steam in the first half of 2026 alone, with roughly half of them attracting five or fewer concurrent players. The poster argued that even well-made indie games now struggle simply to get discovered amid the flood of releases.",
+      "why_matters": "It quantifies the brutal discoverability problem facing indie creators and developers, showing why viral breakout hits like Meccha Chameleon are statistical outliers rather than a repeatable playbook, a key tension for anyone building in the consumer/creator space.",
+      "engagement": "151 upvotes, 167 comments",
+      "post_url": "https://www.reddit.com/r/gamedev/comments/1uli0g6/over_12_289_games_have_been_released_on_steam/"
     }
   ],
   "whitespace": [
@@ -1337,65 +1380,88 @@ export const dealflowData = {
       ]
     },
     {
-      "category": "Deep Tech Platforms",
-      "title": "Grid Interconnection & Power Availability Platform",
-      "demand_signal": "Industry analysis states grid constraints have become the primary risk to data center development in 2026, with US interconnection queues delaying projects for years and Gartner predicting power shortages will operationally constrain 40% of AI data centers by 2027; the bottleneck has 'migrated from the server rack to the substation' (EnkiAI analysis).",
-      "why_gap": "Utilities still process interconnection requests manually with multi-year queues and no real-time visibility tools; no well-funded startup has built a platform that models grid capacity, automates interconnection applications, and matches available power to compute/industrial demand at the speed AI infrastructure now requires.",
-      "why_matters_plain": "AI data centers and factories are being delayed for years, not because of technology or money, but because getting connected to the electrical grid takes too long and is hard to plan for. A platform that makes grid capacity visible and speeds up interconnection could unlock billions in stalled projects.",
-      "market_size_qualitative": "Large ($50B+)",
-      "business_model": "SaaS licensing to utilities and developers, plus advisory/brokerage fees on secured interconnection capacity",
-      "sources": [
-        "https://enkiai.com/data-center/data-center-power-crisis-2026-the-grid-bottleneck/"
-      ]
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "title": "Space Debris Tracking and Active Removal",
-      "demand_signal": "The global space debris monitoring and removal market was valued at $1.05 billion in 2024, projected to reach $2.05 billion by 2033, driven explicitly by surging LEO satellite launches and rising collision risks that 'traditional passive monitoring systems are no longer sufficient' to address (GlobeNewswire market report; Grand View Research). YC's Summer 2026 RFS on 'Electronics in Space' and inference chips for space also signals rising infrastructure demand tied to orbital compute (VC Cafe summary of YC RFS).",
-      "why_gap": "Government agencies (Space Force, ESA) run passive tracking systems, but no well-funded commercial company has built a comprehensive active debris removal capability paired with real-time AI-driven collision prediction at the scale needed for the thousands of new satellites launching annually.",
-      "why_matters_plain": "Space is getting crowded with satellites and debris, and a single collision can create thousands of dangerous fragments that threaten other satellites for decades. Better tracking and active cleanup technology is needed to keep space usable for communications, weather, and navigation systems everyone relies on.",
-      "market_size_qualitative": "Small niche ($1-10B)",
-      "business_model": "Government and commercial satellite operator contracts for tracking-as-a-service and removal missions",
-      "sources": [
-        "https://www.globenewswire.com/news-release/2025/07/25/3121670/28124/en/Space-Debris-Monitoring-and-Removal-Market-Trends-Analysis-Report-2025-2033-Surge-in-LEO-Satellite-Launches-and-Collision-Risks-Drives-Demand-for-AI-Enabled-Solutions.html",
-        "https://www.vccafe.com/requests-for-startups-summer-2026-edition/"
-      ]
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "title": "Dense Physical-World Sensor Data Collection",
-      "demand_signal": "YC's official RFS 'Data for the Real World' states that AI has superhuman models for code, language, and images, but for the physical world 'we're still working with sparse data from remote sensors designed for humans, not AI,' pointing to energy, agriculture, logistics, and construction as huge industries still reliant on limited data and intuition-based models (YC RFS).",
-      "why_gap": "Existing IoT sensor companies sell hardware for narrow monitoring use cases; no well-funded company has built a general-purpose, dense physical-world data collection platform (robots, drones, weather balloons) explicitly designed to train AI world models the way image/text data trained LLMs.",
-      "why_matters_plain": "AI can write essays and code well but still can't reliably predict or control real-world systems like weather, crop yields, or infrastructure failures because there isn't enough good sensor data. Companies that can affordably collect dense physical data could unlock AI models that actually understand and manage the physical world.",
-      "market_size_qualitative": "Large ($50B+)",
-      "business_model": "Data-as-a-service licensing to industrial customers and AI model developers, plus hardware sensor/robot sales",
-      "sources": [
-        "https://www.ycombinator.com/rfs"
-      ]
-    },
-    {
-      "category": "Deep Tech Platforms",
-      "title": "Compute Infrastructure Sited Offshore",
-      "demand_signal": "YC's official RFS 'Compute at Sea' states that AI is running out of compute while data centers face years-long approval delays and community opposition on land, proposing 'compute flotillas' of modular vessels operating in international waters where permitting is not required and the ocean serves as a natural heat sink (YC RFS).",
-      "why_gap": "All major cloud providers and neoclouds build exclusively on land, constrained by permitting, water rights, and grid access; no well-funded company has built modular offshore compute infrastructure despite the ocean covering 70% of Earth's surface with abundant cooling and no permitting bottleneck.",
-      "why_matters_plain": "Building new AI data centers on land is getting stuck for years in permitting fights and power shortages. Moving computing infrastructure onto the ocean, which has free cooling and no permitting process, could be a faster way to add the capacity AI needs.",
+      "category": "Consumer",
+      "title": "Financial Operating System for Mid-Tier Creators",
+      "demand_signal": "Reddit threads in r/socialmedia and r/SideProject repeatedly describe creators with 5,000-500,000 followers who can't monetize despite real engagement, citing platform payouts as low as $1.66 for 214,000 views and noting monetization models favor reach over trust (Reddit r/SideProject 'Small creators: What's your biggest monetisation frustration right now?' https://www.reddit.com/r/SideProject/comments/1r81hz7/small_creators_whats_your_biggest_monetisation/ and r/OnlineMarketingFansOf https://www.reddit.com/r/OnlineMarketingFansOf/comments/1pt09gr/frustration_with_platform_payouts/). Rex Woodbury of Index/Daybreak Ventures has publicly called monetization 'the least-saturated category' of the creator triad and highlighted that top 3.5% of YouTube channels only earn $12-16k/year, near the poverty line, with 97% of creators not making minimum wage (Digital Native, 'The Evolution of the Creator' https://www.digitalnative.tech/p/the-evolution-of-the-creator).",
+      "why_gap": "Existing tools solve single slices (Patreon for subscriptions, Stripe for payments, Flagship/LoudCrowd for affiliate storefronts) but no well-funded player has built the unified financial back-office -- invoicing, contractor payments, tax withholding, multi-platform revenue aggregation, and cash-flow forecasting -- purpose-built for creators earning $20k-$500k/year who are functionally small business owners without the tooling. Rex Woodbury's own portfolio bet (Flagship, Creative Juice) validates the thesis but remains early-stage and narrow (affiliate-only), leaving the broader 'financial hub' need unmet at scale (Digital Native creator manifesto https://www.digitalnative.tech/p/the-creator-manifesto-).",
+      "why_matters_plain": "Millions of creators are running real small businesses -- juggling brand deals, platform payouts, and freelance income -- but have no single place to manage the money side, so many either mismanage taxes or give up entirely. A tool that does for creators what QuickBooks and Gusto do for small businesses could become the default financial layer for a workforce projected to be majority freelance by 2027.",
       "market_size_qualitative": "Mid-size ($10-50B)",
-      "business_model": "Compute capacity leasing to AI labs and cloud providers, similar to colocation but ocean-based",
+      "business_model": "SaaS subscription tiered by revenue processed, plus a small percentage take-rate on payouts/instant cash advances, similar to a vertical neobank for creators",
       "sources": [
-        "https://www.ycombinator.com/rfs"
+        "https://www.reddit.com/r/SideProject/comments/1r81hz7/small_creators_whats_your_biggest_monetisation/",
+        "https://www.reddit.com/r/OnlineMarketingFansOf/comments/1pt09gr/frustration_with_platform_payouts/",
+        "https://www.digitalnative.tech/p/the-evolution-of-the-creator",
+        "https://www.digitalnative.tech/p/the-creator-manifesto-"
       ]
     },
     {
-      "category": "Deep Tech Platforms",
-      "title": "Semiconductor Supply Chain Visibility Platform",
-      "demand_signal": "YC's Summer 2026 RFS calls for 'Semiconductor Supply Chain 2.0,' seeking deeper visibility into packaging constraints, export compliance, and multi-tier supplier risk, alongside faster hardware iteration loops as a core opportunity area (VC Cafe summary of YC RFS). Bessemer's 2026 Defense Tech roadmap separately identifies 'energy and materials independence' and critical minerals supply chain sovereignty as a defined frontier (Bessemer Atlas).",
-      "why_gap": "Existing supply chain software (SAP, e2open) provides generic logistics visibility but was not built for the extreme multi-tier complexity, export control regimes, and packaging-level constraints specific to semiconductors; no well-funded startup has built a purpose-built semiconductor supply chain intelligence platform amid renewed reshoring and export control pressure.",
-      "why_matters_plain": "Chip shortages and export restrictions have shown how fragile and opaque semiconductor supply chains are, with companies often unable to see risk more than one supplier tier deep. Better visibility tools could help chipmakers and their customers avoid costly surprises and delays.",
+      "category": "Consumer",
+      "title": "Structured Community Platform Beyond Chat",
+      "demand_signal": "A high-engagement Reddit thread asks directly for a 'Discord alternative for communities,' with commenters noting Discord's chat history isn't searchable, lore and knowledge get lost, and 'old school forums were better for community building' (r/SaaS https://www.reddit.com/r/SaaS/comments/12ia134/has_someone_explored_a_discord_alternative_for/). Multiple sources catalog the same recurring pain points: no built-in monetization tiers, updates buried within minutes, no persistent knowledge base, and reliance on third-party bots for basic functions (Circle's community platform comparison https://circle.so/blog/best-community-platforms).",
+      "why_gap": "Discord dominates by network effects and remains free, so incumbents like Circle, Mighty Networks, and Discourse serve the paid-course/membership niche but haven't cracked mainstream, general-purpose community building at Discord's scale. Every alternative mentioned in threads (Guilded, Element, Rocket.Chat, Fluxer) is a smaller clone rather than a fundamentally better product, and no well-funded startup has solved the 'chat is ephemeral, forums are slow' tension people keep describing.",
+      "why_matters_plain": "Online communities are where people spend hours daily, but the tools force an awkward choice between fast chaotic chat (Discord) and slow structured forums (Discourse) with nothing that does both well. Whoever solves this could capture the huge base of creators, hobbyists, and brands currently stuck patching together bots and workarounds.",
       "market_size_qualitative": "Mid-size ($10-50B)",
-      "business_model": "Enterprise SaaS subscription sold to chipmakers, OEMs, and governments for supply chain risk monitoring",
+      "business_model": "Freemium SaaS with paid tiers for monetized memberships, analytics, and moderation tools; take-rate on creator subscriptions and event ticketing",
       "sources": [
-        "https://www.vccafe.com/requests-for-startups-summer-2026-edition/",
-        "https://www.bvp.com/atlas/defense-tech-roadmap-five-frontiers-for-2026"
+        "https://www.reddit.com/r/SaaS/comments/12ia134/has_someone_explored_a_discord_alternative_for/",
+        "https://circle.so/blog/best-community-platforms",
+        "https://bridgeapp.ai/resources/blog/discord-alternatives-for-collaboration-in-2026"
+      ]
+    },
+    {
+      "category": "Consumer",
+      "title": "AI Companion Apps for Emotional Support, Done Safely",
+      "demand_signal": "a16z speedrun issued an explicit Request for Startups for 'AI Companions in Cozy Simulations,' citing Character.AI and Replika-style apps serving as friends and therapists for millions, and pointing to Love and Deepspace grossing over $400M in a single year as proof of willingness to pay (a16z RFS on X https://x.com/a16z/status/1910772139072086415). Simultaneously, Character.AI's own subreddit shows mass user demand paired with mass frustration: users describe 16-hour daily usage, emotional dependency, and 713 analyzed app store reviews citing intrusive ads (100+ mentions) and eroding AI quality (60+ mentions) as top complaints (CompanionWise review https://companionwise.com/reviews/character-ai/).",
+      "why_gap": "The dominant incumbent (Character.AI) has been forced into aggressive age-gating and safety restrictions after lawsuits tied to teen deaths, degrading the product for adult users who still want the companionship experience, while no well-funded, safety-first alternative has emerged to capture that displaced demand. a16z has publicly flagged this as unsolved ('a truly mass-market companion app has yet to be built') even while funding early bets like Hedra and Talkie, none of which have reached incumbent scale.",
+      "why_matters_plain": "Tens of millions of people are already using AI chat apps for companionship and emotional support, proving real demand, but the current market leader is under legal and regulatory pressure and delivering a worse experience as a result. There's room for a well-designed, safety-conscious alternative that treats emotional wellbeing seriously rather than as an afterthought.",
+      "market_size_qualitative": "Large ($50B+)",
+      "business_model": "Freemium subscription with premium tiers for voice, memory persistence, and multi-modal features; no ad-supported free tier to avoid the engagement-maximizing incentives users complain about",
+      "sources": [
+        "https://x.com/a16z/status/1910772139072086415",
+        "https://companionwise.com/reviews/character-ai/",
+        "https://arxiv.org/html/2507.15783v3"
+      ]
+    },
+    {
+      "category": "Consumer",
+      "title": "Post-Cookie Customer Intelligence for DTC Brands",
+      "demand_signal": "DTC operators openly describe drowning in disconnected tools: a viral LinkedIn post from a brand founder states operators are 'expected to stitch together six, seven, or eight disconnected tools just to run their business' with analytics 'built for agencies' rather than honest profitability views (LinkedIn, Jessica Herrin https://www.linkedin.com/posts/jessicaherrin_sometimes-the-best-business-ideas-and-the-activity-7462569189334196224-i3EL). Reddit research documents chronic complaints about broken attribution since iOS 14 privacy changes and manual, spreadsheet-based inventory forecasting across r/ecommerce and r/shopify (PainPointMap Reddit research guide https://www.painpointmap.com/blog/reddit-research-guide-ecommerce). The shutdown of GummySearch in late 2025 -- a tool 135,000+ founders used for customer research -- left a documented vacuum with no well-funded replacement yet (Insightios https://www.insightios.com/blog/gummysearch-alternative).",
+      "why_gap": "Point solutions exist for ad attribution, inventory, and social listening individually, but no well-capitalized company has unified post-cookie attribution, true profitability accounting, and customer voice research into one workflow for the long tail of DTC brands below enterprise scale. GummySearch's shutdown due to Reddit's API pricing changes shows this space is structurally fragile, not saturated -- multiple small replacements (RedReach, Reddily) have launched but none has real funding or brand trust yet.",
+      "why_matters_plain": "Small brand founders are spending huge amounts of time and money stitching together disconnected tools just to understand if they're actually profitable, and the tools that used to help them understand their customers are disappearing due to platform policy changes. A well-funded, integrated solution could save DTC operators from wasting their limited time on tool management instead of growing their business.",
+      "market_size_qualitative": "Mid-size ($10-50B)",
+      "business_model": "SaaS subscription tiered by revenue/order volume, with an add-on module for social listening and customer voice research",
+      "sources": [
+        "https://www.linkedin.com/posts/jessicaherrin_sometimes-the-best-business-ideas-and-the-activity-7462569189334196224-i3EL",
+        "https://www.painpointmap.com/blog/reddit-research-guide-ecommerce",
+        "https://www.insightios.com/blog/gummysearch-alternative"
+      ]
+    },
+    {
+      "category": "Consumer",
+      "title": "Non-Exploitative Live-Service Game Monetization Model",
+      "demand_signal": "Gaming subreddits show sustained, high-engagement backlash against whale-driven monetization: r/truegaming discussions cite estimates that '0.15% of gamers account for 50% of all in-game revenue,' and NPR/LAist reporting notes the FTC forced Epic Games to pay $245 million in refunds over deceptive in-game purchase tactics in Fortnite (LAist/NPR https://laist.com/npr-news/players-are-pushing-back-against-free-video-games-that-rely-on-in-game-purchases). r/gaming threads titled 'What can we do to stop live service games?' and 'Live service games were a mistake' show broad player fatigue with battle passes, FOMO seasonal content, and pay-to-win mechanics (Reddit r/gaming https://www.reddit.com/r/gaming/comments/1d3l8vy/what_can_we_do_to_stop_live_service_games/).",
+      "why_gap": "Every major publisher (Activision, EA, Epic, Blizzard) is locked into whale-dependent free-to-play economics because it's the most profitable model at their scale, and no well-funded new entrant has proven a subscription-only or expansion-based live-service model can sustain AAA production budgets without predatory monetization. Players consistently say they'd prefer subscriptions or paid expansions over microtransactions, but the funded supply side hasn't tested this at scale because switching is seen as too financially risky for incumbents.",
+      "why_matters_plain": "Millions of gamers are fed up with games designed around squeezing money from a tiny fraction of 'whale' spenders through manipulative tactics, and regulators are starting to intervene. A new studio funded to build genuinely fair monetization from day one -- rather than retrofitting it -- could win significant player loyalty and press goodwill that incumbents can no longer earn.",
+      "market_size_qualitative": "Large ($50B+)",
+      "business_model": "Subscription-based access or one-time purchase plus paid expansions, avoiding microtransactions and loot boxes entirely as a brand differentiator",
+      "sources": [
+        "https://laist.com/npr-news/players-are-pushing-back-against-free-video-games-that-rely-on-in-game-purchases",
+        "https://www.reddit.com/r/gaming/comments/1d3l8vy/what_can_we_do_to_stop_live_service_games/",
+        "https://www.reddit.com/r/truegaming/comments/1r2kxwq/are_liveservice_models_making_games_better_or/"
+      ]
+    },
+    {
+      "category": "Consumer",
+      "title": "Trust-First Dating Alternative to Swipe Fatigue",
+      "demand_signal": "r/OnlineDating and related subreddits show sustained, recurring 'burnout' threads describing dating apps as exhausting and unrewarding, with one widely-endorsed comment noting 'the prevalence of bots and scammers on these platforms has also skyrocketed' alongside 'exorbitant' subscription costs (Reddit r/Bumble https://www.reddit.com/r/Bumble/comments/1lhrrv2/is_everyone_really_burnt_out_and_down_with_online/). Multiple threads independently cite the Pareto-style imbalance where a small fraction of profiles receive the vast majority of attention regardless of gender, and describe apps as 'intentionally designed to be addictive' rather than designed to produce real matches (Reddit r/OnlineDating https://www.reddit.com/r/OnlineDating/comments/1q9vkku/is_it_normal_to_feel_exhausted_even_when_dating/).",
+      "why_gap": "Match Group and Bumble dominate the category with swipe-based, engagement-maximizing mechanics that are structurally misaligned with helping users actually leave the app (their revenue depends on continued usage), and no well-funded challenger has committed to a fundamentally different, trust-and-outcome-optimized model at scale. Smaller apps (Hinge's 'designed to be deleted' positioning, niche apps like Feeld) have nibbled at parts of this but none has solved bot/scam prevalence or the attention-imbalance problem with real capital behind it.",
+      "why_matters_plain": "People are tired of swiping through endless profiles, dealing with scammers, and paying subscription fees for an experience that feels designed to keep them using the app rather than to help them find a relationship. A dating platform genuinely built around successful, verified outcomes rather than engagement metrics could capture the large, vocal population of burned-out daters looking for something different.",
+      "market_size_qualitative": "Large ($50B+)",
+      "business_model": "Outcome-aligned subscription (lower recurring fees, higher one-time success/matchmaking fees) plus paid identity verification as a trust layer and differentiator",
+      "sources": [
+        "https://www.reddit.com/r/Bumble/comments/1lhrrv2/is_everyone_really_burnt_out_and_down_with_online/",
+        "https://www.reddit.com/r/OnlineDating/comments/1q9vkku/is_it_normal_to_feel_exhausted_even_when_dating/",
+        "https://www.reddit.com/r/dating/comments/xiv67x/dating_app_fatigue_anyone_else/"
       ]
     }
   ]

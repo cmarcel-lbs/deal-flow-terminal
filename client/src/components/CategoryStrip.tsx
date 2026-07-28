@@ -8,7 +8,7 @@ import { Helper } from "./Glossary";
 const CATEGORIES = [
   "Business/Professional Services",
   "AI and Biotech",
-  "Deep Tech Platforms",
+  "Consumer",
 ] as const;
 
 export function CategoryStrip() {

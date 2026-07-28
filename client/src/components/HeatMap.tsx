@@ -6,7 +6,7 @@ import { Helper } from "./Glossary";
 const CATEGORIES = [
   "Business/Professional Services",
   "AI and Biotech",
-  "Deep Tech Platforms",
+  "Consumer",
 ] as const;
 
 // 90 days of weekly buckets, 3 category rows.
@@ -112,7 +112,7 @@ function Legend() {
 
 function buildGrid() {
   const NUM_WEEKS = 13;
-  const today = new Date("2026-07-27");
+  const today = new Date("2026-07-28");
   const weeks = Array.from({ length: NUM_WEEKS }).map((_, i) => {
     const offset = NUM_WEEKS - 1 - i;
     const d = new Date(today);

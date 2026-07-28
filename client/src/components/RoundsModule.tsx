@@ -11,12 +11,12 @@ import {
 } from "@/lib/dealflow-utils";
 import { ExternalLink, Flame } from "lucide-react";
 
-const ALL_CATS = ["All", "PRO", "AIB", "DTP"] as const;
+const ALL_CATS = ["All", "PRO", "AIB", "CON"] as const;
 
 const CAT_MAP: Record<string, string> = {
   PRO: "Business/Professional Services",
   AIB: "AI and Biotech",
-  DTP: "Deep Tech Platforms",
+  CON: "Consumer",
 };
 
 export function RoundsModule() {
