@@ -112,7 +112,7 @@ function Legend() {
 
 function buildGrid() {
   const NUM_WEEKS = 13;
-  const today = new Date("2026-07-28");
+  const today = new Date("2026-08-03");
   const weeks = Array.from({ length: NUM_WEEKS }).map((_, i) => {
     const offset = NUM_WEEKS - 1 - i;
     const d = new Date(today);

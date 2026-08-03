@@ -23,7 +23,7 @@ export default function Terminal() {
 
   return (
     <div className="h-screen w-screen flex flex-col overflow-hidden bg-background">
-      <TerminalHeader totalSignals={totalSignals} asOfDate="JUL 28 2026" />
+      <TerminalHeader totalSignals={totalSignals} asOfDate="AUG 03 2026" />
       <Ticker />
 
       <div className="flex-1 flex overflow-hidden">
