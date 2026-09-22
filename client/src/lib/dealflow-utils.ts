@@ -61,7 +61,7 @@ export function daysAgo(d: string): number {
       Jul: 6, Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11,
     };
     if (monthName in months) {
-      const today = new Date("2026-09-07");
+      const today = new Date("2026-09-21");
       const guess = new Date(2026, months[monthName], 15);
       return Math.max(0, Math.floor((today.getTime() - guess.getTime()) / 86400000));
     }
@@ -69,7 +69,7 @@ export function daysAgo(d: string): number {
   }
   const parsed = new Date(d);
   if (isNaN(parsed.getTime())) return 60;
-  const today = new Date("2026-09-07");
+  const today = new Date("2026-09-21");
   return Math.max(0, Math.floor((today.getTime() - parsed.getTime()) / 86400000));
 }
 
